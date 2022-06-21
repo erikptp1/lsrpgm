@@ -1,0 +1,2 @@
+# lsrpgm
+gamemode ls-rp
